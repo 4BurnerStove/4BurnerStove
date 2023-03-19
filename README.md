@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi there, i'm Andre Morryson 👋
 
-<!--
-**4BurnerStove/4BurnerStove** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##### About
+I'm a web developer, and I'm constantly evolving and learning in the programming area
 
-Here are some ideas to get you started:
+##### Current Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Backend: `Node.js`
+- Frontend: `React.js`, `HTML5`, `CSS3`, `JS`
+- IDE: `Visual Studio Code`
+- Version code control: `Git & GitHub`
+
+##### Contact
+
+- E-mail: and.morrysson21@gmail.com
+- Linkedin: https://www.linkedin.com/in/andre-morryson-sousa-alves-594b04265/
+- Instagram: https://www.instagram.com/lul_ndre/
+- Discord: </ 4BurnerStove >#3911
