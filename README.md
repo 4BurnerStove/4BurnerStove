@@ -13,6 +13,5 @@ I'm a web developer, and I'm constantly evolving and learning in the programming
 ##### Contact 📱
 
 - 📧 E-mail: and.morrysson21@gmail.com
-- 👤 Linkedin: https://www.linkedin.com/in/andre-morryson-sousa-alves-594b04265/
 - 📘 Instagram: https://www.instagram.com/lul_ndre/
 - 🤖 Discord: 4BurnerStove#3911
