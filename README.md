@@ -14,3 +14,5 @@ I'm a web developer, and I'm constantly evolving and learning in the programming
 
 - 📧 E-mail: and.morrysson21@gmail.com
 - 📘 LinkeIn: https://www.linkedin.com/in/andre-morryson-sousa-alves-594b04265/
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=4BurverStove656&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
