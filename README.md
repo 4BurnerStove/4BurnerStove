@@ -12,7 +12,7 @@ I'm a web developer, and I'm constantly evolving and learning in the programming
 
 ##### Contact 📱
 
-- 📧 E-mail: and.morrysson21@gmail.com
+- 📧 E-mail: and.morrysson77@gmail.com
 - 📘 LinkeIn: https://www.linkedin.com/in/andre-morryson-sousa-alves-594b04265/
 
 ##### GitStatus
